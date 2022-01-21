@@ -2,7 +2,6 @@
 // Ques link - https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 
 package com.nitin;
-//Q: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 public class SmallestLetter {
     public static void main(String[] args) {
         char[] letters = {'c','f','j'};

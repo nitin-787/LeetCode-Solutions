@@ -1,4 +1,4 @@
-Ques : 852. Peak Index in a Mountain Array
+// Ques : 852. Peak Index in a Mountain Array
 Ques Link : https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 package com.nitin;

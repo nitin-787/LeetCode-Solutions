@@ -1,2 +1,27 @@
-# LeetCode-Solutions 
-## All the submission done by me. To study the alogorithm of any Ques/ code kindly reach out me through any method provided in my github profile. I'm glad to help you, for better understanding I'll will give you handwritten notes as well.
+# Welcome to the LeetCode-Solutions Start date - 21/01/2222 let's see how far I go...
+### Ans solutions are on my repo - [LeetCode Solutions](https://github.com/nitin-787/LeetCode-Solutions)
+
+
+**Day 1: Ques no. 744 LeetCode** - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+**Day 2: Ques no. 1672 LeetCode** - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+
+**Day 3: Ques no. 1295 LeetCode** - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+
+**Day 4: GeeksForGeeks** - [Find the position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+
+**Day 5: Ques no. 34 Leetcode** - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+**Day 6: Ques no. 852 LeetCode** - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
+**Day 7: Ques no. 33 LeetCode** - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+**Day 8: Ques no. 162 LeetCode** - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+**Day 9: GeeksForGeeks** - [Find the Rotation Count in Rotated Sorted array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
+
+**Day 10: Ques no. 704 LeetCode** - [Simple Binary Search](https://leetcode.com/problems/binary-search/)
+
+**Day 11: Skipped**
+
+**Day 12: Ques no. 74 LeetCode** - [Sort Colors Aka bubble sort](https://leetcode.com/problems/sort-colors/)

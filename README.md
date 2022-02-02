@@ -1,6 +1,10 @@
 # Welcome to the LeetCode-Solutions Start date - 21/01/2222 let's see how far I go...
 ### Ans solutions are on my repo - [LeetCode Solutions](https://github.com/nitin-787/LeetCode-Solutions)
 
+## Instagram - [Nitin Sharma](https://www.instagram.com/_nitin787/) Contact for detailed understanding for free + handwritten notes 
+### LeetCode Profile - [Nitin Sharma](https://leetcode.com/nitin-787/)
+
+### LinkedIN - [Nitin Shamra](https://www.linkedin.com/in/nitin787/)
 
 **Day 1: Ques no. 744 LeetCode** - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 

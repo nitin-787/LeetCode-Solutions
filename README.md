@@ -36,4 +36,4 @@
 
 **Day 15: Skipped**
 
-**Day 16: Ques no. 268 LeetCode - [Find the missing number](https://leetcode.com/problems/missing-number/)
+**Day 16: Ques no. 268 LeetCode** - [Find the missing number](https://leetcode.com/problems/missing-number/)

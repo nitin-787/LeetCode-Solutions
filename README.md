@@ -29,3 +29,11 @@
 **Day 11: Skipped**
 
 **Day 12: Ques no. 74 LeetCode** - [Sort Colors Aka bubble sort](https://leetcode.com/problems/sort-colors/)
+
+**Day 13: Skipped**
+
+**Day 14: Skipped**
+
+**Day 15: Skipped**
+
+**Day 16: Ques no. 268 LeetCode - [Find the missing number](https://leetcode.com/problems/missing-number/)

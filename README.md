@@ -37,3 +37,5 @@
 **Day 15: Skipped**
 
 **Day 16: Ques no. 268 LeetCode** - [Find the missing number](https://leetcode.com/problems/missing-number/)
+
+**Day 17: Ques no. 448 LeetCode** - [Find all disappeared numbers in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)

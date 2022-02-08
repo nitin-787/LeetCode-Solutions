@@ -39,3 +39,5 @@
 **Day 16: Ques no. 268 LeetCode** - [Find the missing number](https://leetcode.com/problems/missing-number/)
 
 **Day 17: Ques no. 448 LeetCode** - [Find all disappeared numbers in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+
+**Day 18: Ques. 442 LeetCode** - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)

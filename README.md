@@ -40,6 +40,6 @@
 
 **Day 17: Ques no. 448 LeetCode** - [Find all disappeared numbers in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
-**Day 18: Ques. 442 LeetCode** - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+**Day 18: Ques no. 442 LeetCode** - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
-**Day 19: Ques no. 287 LeetCode** [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
+**Day 19: Ques no. 287 LeetCode** - [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)

@@ -44,3 +44,5 @@
 **Day 18: Ques no. 442 LeetCode** - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 **Day 19: Ques no. 287 LeetCode** - [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+**Day 20: Ques no. 643 LeetCode** - [Set misMatch](https://leetcode.com/problems/set-mismatch/)

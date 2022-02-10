@@ -46,3 +46,5 @@
 **Day 19: Ques no. 287 LeetCode** - [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 **Day 20: Ques no. 643 LeetCode** - [Set misMatch](https://leetcode.com/problems/set-mismatch/)
+
+**Day 21: Ques no. 41 LeetCode** [First missing positive](https://leetcode.com/problems/first-missing-positive/)

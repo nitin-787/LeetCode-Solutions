@@ -51,4 +51,4 @@
 
 **I don't know the day no. it might be 32 😂😁 Ques no . 509 LeetCode** [Fibonacci number using recursion](https://leetcode.com/problems/fibonacci-number/)
 
-**Seriously I don't know the day Ques no. 832 LeetCode** [Flipping an image](https://leetcode.com/problems/flipping-an-image/)
+**Seriously i don't know the day Ques no. 832 LeetCode** [Flipping an image](https://leetcode.com/problems/flipping-an-image/)

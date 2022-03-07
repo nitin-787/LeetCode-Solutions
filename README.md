@@ -50,3 +50,7 @@
 **Day 21: Ques no. 41 LeetCode** [First missing positive](https://leetcode.com/problems/first-missing-positive/)
 
 **I don't know the day no. it might be 32 😂😁 Ques no . 509 LeetCode** [Fibonacci number using recursion](https://leetcode.com/problems/fibonacci-number/)
+
+**Ques no. 832 LeetCode** [Flip an image](https://leetcode.com/problems/flipping-an-image/)
+
+**Ques no. 231 LeetCode** [Power of two](https://leetcode.com/problems/power-of-two/) 

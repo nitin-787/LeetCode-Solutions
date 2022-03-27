@@ -2,7 +2,7 @@
 ### Ans solutions are on my repo - [LeetCode Solutions](https://github.com/nitin-787/LeetCode-Solutions)
 ### NOTE : While I'm skipping the day doesn't mean that, i did'nt learned anything on that particular day rather i am leaning another topic of DSA or some other thing . I'll never stop learning no matter what  
 
-## Instagram - [Nitin Sharma](https://www.instagram.com/_nitin787/) Contact for detailed understanding for free + handwritten notes 
+## Discord - [Mugiwara](https://discordapp.com/users/947741502304550912) Contact for detailed understanding for free + handwritten notes 
 ### LeetCode Profile - [Nitin Sharma](https://leetcode.com/nitin-787/)
 
 ### LinkedIN - [Nitin Shamra](https://www.linkedin.com/in/nitin787/)

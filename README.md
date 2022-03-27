@@ -53,4 +53,6 @@
 
 **Ques no. 832 LeetCode** [Flip an image](https://leetcode.com/problems/flipping-an-image/)
 
-**Ques no. 231 LeetCode** [Power of two](https://leetcode.com/problems/power-of-two/) 
+**Ques no. 231 LeetCode** [Power of two](https://leetcode.com/problems/power-of-two/)
+
+**Ques no. 1342 LeetCode** [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)

@@ -56,3 +56,5 @@
 **Ques no. 231 LeetCode** [Power of two](https://leetcode.com/problems/power-of-two/)
 
 **Ques no. 1342 LeetCode** [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+**Ques no. 344 LeetCode** [Reverse String](https://leetcode.com/problems/reverse-string/)

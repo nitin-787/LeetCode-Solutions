@@ -58,3 +58,5 @@
 **Ques no. 1342 LeetCode** [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 **Ques no. 344 LeetCode** [Reverse String](https://leetcode.com/problems/reverse-string/)
+
+**Ques no. 9 LeetCode** [Plaindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)

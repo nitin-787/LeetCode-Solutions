@@ -59,4 +59,4 @@
 
 **Ques no. 344 LeetCode** [Reverse String](https://leetcode.com/problems/reverse-string/)
 
-**Ques no. 9 LeetCode** [Plaindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)
+**Ques no. 9 LeetCode** [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)

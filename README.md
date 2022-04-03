@@ -60,3 +60,5 @@
 **Ques no. 344 LeetCode** [Reverse String](https://leetcode.com/problems/reverse-string/)
 
 **Ques no. 9 LeetCode** [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)
+
+**Ques no. 10 LeetCode** [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)

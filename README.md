@@ -62,3 +62,5 @@
 **Ques no. 9 LeetCode** [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)
 
 **Ques no. 10 LeetCode** [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)
+
+**Ques no. 912 LeetCode** [Sort an Array](https://leetcode.com/problems/sort-an-array/)

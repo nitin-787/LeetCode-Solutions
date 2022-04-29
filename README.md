@@ -64,3 +64,5 @@
 **Ques no. 10 LeetCode** [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)
 
 **Ques no. 912 LeetCode** [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+
+**Ques no. 88 LeetCode**[Merge Sort]{https://leetcode.com/problems/merge-sorted-array/}

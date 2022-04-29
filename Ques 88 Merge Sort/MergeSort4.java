@@ -1,4 +1,4 @@
-// Here we don't have sorted arrays we just have one single array and i just applied merger sort
+// Here we don't have sorted arrays we just have one single array and i just applied merger sort (recursion)
 // we can also done this (merge sort in place) if you want the merge sort in place solution just
 // ping me on my discord or raise a issue in repo
 

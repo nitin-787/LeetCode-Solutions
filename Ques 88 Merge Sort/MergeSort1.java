@@ -1,4 +1,4 @@
-// we already have sorted arrayas and just we are merging both of the arrays
+// we already have sorted arrays and just we are merging both of the arrays
 
 package com.nitin;
 

@@ -8,8 +8,8 @@ import java.util.Arrays;
 public class MergeSort {
     public static void main(String[] args) {
         // int[] num1 = {2, 4, 6}
-        int[] num1 = {2, 4, 6, 0, 0, 0};
-        int[] num2 = {8, 9, 12};
+        int[] num1 = {2, 3, 6, 0, 0, 0};
+        int[] num2 = {7, 9, 12};
 
         int[] ans = mergeSort(num1, 0, num2, 0);
         System.out.println(Arrays.toString(ans));
@@ -41,6 +41,18 @@ public class MergeSort {
 
             int[] num3 = new int[num1.length + num2.length];
 
+            while (n < num1.length && m < num2.length) {
+                if (num1[n] < num2[m]) {
+                    num3[k] = num1[n];
+                    n++;
+                } else {
+                    num3[k] = num2[m];
+                    m++;
+                }
+                k++;
+            }
+
+
             while (n < num1.length) {
                 num3[k] = num1[n];
                 n++;
@@ -49,10 +61,9 @@ public class MergeSort {
 
             while (m < num2.length) {
                 num3[k] = num2[m];
-                k++;
                 m++;
+                k++;
             }
-
             return num3;
         }
     }

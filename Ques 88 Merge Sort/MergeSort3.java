@@ -1,6 +1,5 @@
 // it is the combined solution of MergeSort 1 and MergeSort 2 in given folder
-// if arrays 1 dose'nt contain zero's at end then it will work and if there is no zero at end then it'll 
-// also work.
+// if arrays 1 dose'nt contain zero's at end then it will work and if there zero at end of the element //// then it'll also work.
 
 package com.nitin;
 
